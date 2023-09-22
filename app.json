@@ -15,10 +15,6 @@
       "description": "هنا ضع اسم التلجرام الخاص بك",
       "value": ""
     },
-    "ENV": {
-      "description": "لا تغير هذه القيمه",
-      "value": "ANYTHING"
-    },
     "STRING_SESSION": {
       "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك(كود السيشن)",
       "value": ""
